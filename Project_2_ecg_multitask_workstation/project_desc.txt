@@ -1,0 +1,3 @@
+A Multi-Task Deep Sequence Workstation using a custom Keras Functional API (1D CNN + LSTM) 
+to analyze continuous ECG telemetry streams—simultaneously diagnosing cardiac diseases and 
+assessing autonomic stress levels in real-time. Includes an interactive Gradio UI dashboard with 10 clinical test scenarios.
